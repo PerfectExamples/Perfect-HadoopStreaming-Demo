@@ -26,7 +26,7 @@ public func lineMain() -> Bool {
 }
 
 
-// process all liens
+// process all lines
 while(lineMain()){}
 
 // print out the counting result.
